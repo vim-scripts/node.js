@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3798
+
+vim-node.js is a file type detect plugin for vim which detects node.js shebang and sets file type to JavaScript.
+
+GitHub repository: https://github.com/mmalecki/vim-node.js
